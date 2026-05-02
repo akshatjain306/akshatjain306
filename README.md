@@ -1,200 +1,143 @@
 <div align="center">
 
-<br/>
-
-<img src="https://readme-typing-svg.demolab.com?font=Inter&weight=800&size=48&duration=4000&pause=1000&color=F8FAFC&center=true&vCenter=true&width=500&height=70&lines=Akshat+Jain" alt="Akshat Jain" />
-
-<h3 align="center">AI Engineer · Full Stack Developer</h3>
-
-<a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=400&size=13&duration=3000&pause=2000&color=38BDF8&center=true&vCenter=true&width=400&height=30&lines=architecting+intelligent+systems;bridging+models+and+production;systems+>+scripts" alt="Typing SVG" />
-</a>
-
-<br/>
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0F172A?style=for-the-badge&logo=linkedin&logoColor=38BDF8)](https://www.linkedin.com/in/akshatjain8859/)
-[![Email](https://img.shields.io/badge/Email-0F172A?style=for-the-badge&logo=gmail&logoColor=38BDF8)](mailto:your-email@gmail.com)
-
 <br/><br/>
 
-<img width="800" src="https://capsule-render.vercel.app/api?type=rect&color=1E293B&height=1" />
+<img src="https://readme-typing-svg.demolab.com?font=Inter&weight=600&size=48&duration=4000&pause=1000&color=F8F9FA&center=true&vCenter=true&multiline=false&width=600&height=80&lines=Akshat+Jain" alt="Akshat Jain" />
 
-</div>
-
-<br/>
-
-<div align="center">
-
-Final-year **B.Tech CSE (AI)**. I design and build end-to-end ML systems — <br/>the model, the API, the interface, and the infrastructure. <br/>
-I care about clean architecture, measurable impact, and software that actually ships.
-
-</div>
+<p align="center">
+  <b style="color: #8B949E; font-size: 16px;">AI Engineer × Full Stack Developer</b>
+</p>
 
 <br/>
 
-<div align="center">
-<img width="800" src="https://capsule-render.vercel.app/api?type=rect&color=1E293B&height=1" />
-</div>
+<p align="center">
+  <a href="https://www.linkedin.com/in/akshatjain8859/">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  </a>
+  <a href="mailto:your-email@gmail.com">
+    <img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
+  </a>
+</p>
+
+<br/>
+<img width="800" src="https://capsule-render.vercel.app/api?type=rect&color=21262D&height=1" />
+<br/><br/>
+
+<p align="center">
+  Final-year <b>B.Tech CSE (AI)</b>. I architect end-to-end ML systems — <br/>
+  from data pipelines and model training to production APIs and scalable interfaces.
+</p>
+
+<p align="center">
+  <i>I care about clean architecture, measurable impact, and software that actually ships.</i>
+</p>
+
+<br/>
+<img width="800" src="https://capsule-render.vercel.app/api?type=rect&color=21262D&height=1" />
+<br/><br/>
+
+### ◈ Featured Work
 
 <br/>
 
-<div align="center">
-<img src="https://readme-typing-svg.demolab.com?font=Inter&weight=600&size=20&color=F8FAFC&center=true&vCenter=true&width=200&height=40&lines=Featured+Work" />
-</div>
-
-<br/>
-
-<div align="center">
-<table>
+<table align="center" width="800">
   <tr>
-    <td width="33%" align="center">
+    <td align="center" width="33%">
       <br/>
-      <a href="https://github.com/akshatjain306/Medverse_AI">
-        <img src="https://readme-typing-svg.demolab.com?font=Inter&weight=600&size=16&color=38BDF8&center=true&vCenter=true&width=200&height=30&lines=Medverse+AI" />
-      </a>
-      <br/>
-      <p><sub>AI healthcare diagnostics platform</sub></p>
-      <p><sub>Symptom analysis · X-ray classification<br/>Lab parsing · Real-time scheduling</sub></p>
-      <br/>
-      <code>React</code> <code>FastAPI</code> <code>TensorFlow</code>
+      <b><a href="https://github.com/akshatjain306/Medverse_AI">Medverse AI</a></b>
+      <br/><br/>
+      <p>AI healthcare diagnostics platform.<br/>Symptom analysis, X-ray classification,<br/>lab report parsing, and real-time scheduling.</p>
+      <img src="https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB" />
+      <img src="https://img.shields.io/badge/FastAPI-20232A?style=flat-square&logo=fastapi&logoColor=009688" />
+      <img src="https://img.shields.io/badge/TensorFlow-20232A?style=flat-square&logo=tensorflow&logoColor=FF6F00" />
       <br/><br/>
     </td>
-    <td width="33%" align="center">
+    <td align="center" width="33%">
       <br/>
-      <a href="https://github.com/akshatjain306/Fake_News_Detection_Project">
-        <img src="https://readme-typing-svg.demolab.com?font=Inter&weight=600&size=16&color=38BDF8&center=true&vCenter=true&width=200&height=30&lines=Fake+News+Detector" />
-      </a>
-      <br/>
-      <p><sub>Multi-model NLP ensemble</sub></p>
-      <p><sub>LR · SVM · Naive Bayes · Decision Tree<br/><b>92% accuracy</b> · 15% above baseline</sub></p>
-      <br/>
-      <code>Python</code> <code>scikit-learn</code> <code>NLP</code>
+      <b><a href="https://github.com/akshatjain306/Fake_News_Detection_Project">Fake News Detector</a></b>
+      <br/><br/>
+      <p>Multi-model NLP ensemble pipeline.<br/>Logistic Regression, SVM, Naive Bayes,<br/>and Decision Tree classification.</p>
+      <b>92% Accuracy</b>
+      <br/><br/>
+      <img src="https://img.shields.io/badge/Python-20232A?style=flat-square&logo=python&logoColor=3776AB" />
+      <img src="https://img.shields.io/badge/scikit--learn-20232A?style=flat-square&logo=scikitlearn&logoColor=F7931E" />
       <br/><br/>
     </td>
-    <td width="33%" align="center">
+    <td align="center" width="33%">
       <br/>
-      <a href="https://github.com/akshatjain306/CricketPredictor">
-        <img src="https://readme-typing-svg.demolab.com?font=Inter&weight=600&size=16&color=38BDF8&center=true&vCenter=true&width=200&height=30&lines=Cricket+Predictor" />
-      </a>
-      <br/>
-      <p><sub>Match outcome prediction engine</sub></p>
-      <p><sub>XGBoost + regression ensemble<br/><b>85% accuracy</b> · 500+ active users</sub></p>
-      <br/>
-      <code>XGBoost</code> <code>Streamlit</code> <code>Pandas</code>
+      <b><a href="https://github.com/akshatjain306/CricketPredictor">Cricket Predictor</a></b>
+      <br/><br/>
+      <p>Match outcome prediction engine.<br/>XGBoost + regression ensemble deployed<br/>to Streamlit for live inference.</p>
+      <b>85% Accuracy</b>
+      <br/><br/>
+      <img src="https://img.shields.io/badge/XGBoost-20232A?style=flat-square&logo=xgboost&logoColor=FF6600" />
+      <img src="https://img.shields.io/badge/Pandas-20232A?style=flat-square&logo=pandas&logoColor=150458" />
       <br/><br/>
     </td>
   </tr>
 </table>
-</div>
+
+<br/>
+<img width="800" src="https://capsule-render.vercel.app/api?type=rect&color=21262D&height=1" />
+<br/><br/>
+
+### ◈ Core Stack
 
 <br/>
 
-<div align="center">
-<img width="800" src="https://capsule-render.vercel.app/api?type=rect&color=1E293B&height=1" />
-</div>
+<a href="https://skillicons.dev">
+  <img src="https://skillicons.dev/icons?i=py,js,ts,cpp,react,html,css,fastapi,nodejs,tensorflow,pytorch,scikitlearn,firebase,docker,git,githubactions&perline=8&theme=dark" />
+</a>
+
+<br/><br/>
+<img width="800" src="https://capsule-render.vercel.app/api?type=rect&color=21262D&height=1" />
+<br/><br/>
+
+### ◈ Currently Building
 
 <br/>
 
-<div align="center">
-<img src="https://readme-typing-svg.demolab.com?font=Inter&weight=600&size=20&color=F8FAFC&center=true&vCenter=true&width=200&height=40&lines=Core+Stack" />
-</div>
-
-<br/>
-
-<div align="center">
-
-`Python` • `JavaScript` • `C++` • `TypeScript`
-
-`TensorFlow` • `PyTorch` • `scikit-learn` • `spaCy` • `LangChain`
-
-`React` • `FastAPI` • `Node.js` • `Firebase`
-
-`Docker` • `Git` • `GitHub Actions`
-
-</div>
-
-<br/>
-
-<div align="center">
-<img width="800" src="https://capsule-render.vercel.app/api?type=rect&color=1E293B&height=1" />
-</div>
-
-<br/>
-
-<div align="center">
-<img src="https://readme-typing-svg.demolab.com?font=Inter&weight=600&size=20&color=F8FAFC&center=true&vCenter=true&width=300&height=40&lines=Currently+Building" />
-</div>
-
-<div align="center">
-<table>
-<tr><td align="left" width="650">
-
-<br/>
-
-▸ &nbsp;**Medverse AI** — Expanding diagnostics, adding CI/CD pipelines, publishing research paper.
-
-▸ &nbsp;**RAG Document QA** — Semantic search over large document collections using LangChain and FAISS.
-
-▸ &nbsp;**Open-Source NLP Tools** — Building specialized utilities at the intersection of language models and web systems.
-
-<br/>
-
-</td></tr>
+<table align="center" width="800">
+  <tr>
+    <td width="30" align="center">▹</td>
+    <td><b>Medverse AI</b> — Expanding diagnostic modules, adding CI/CD, publishing research paper</td>
+  </tr>
+  <tr>
+    <td width="30" align="center">▹</td>
+    <td><b>RAG Document QA</b> — Semantic search over large collections with LangChain + FAISS</td>
+  </tr>
+  <tr>
+    <td width="30" align="center">▹</td>
+    <td><b>Open-source NLP tools</b> — Utilities at the intersection of language models and web systems</td>
+  </tr>
 </table>
-</div>
 
 <br/>
+<img width="800" src="https://capsule-render.vercel.app/api?type=rect&color=21262D&height=1" />
+<br/><br/>
 
-<div align="center">
-<img width="800" src="https://capsule-render.vercel.app/api?type=rect&color=1E293B&height=1" />
-</div>
-
-<br/>
-
-<div align="center">
-<img src="https://readme-typing-svg.demolab.com?font=Inter&weight=600&size=20&color=F8FAFC&center=true&vCenter=true&width=200&height=40&lines=What+I+Bring" />
-</div>
-
-<div align="center">
-<table>
-<tr><td align="center" width="650">
+### ◈ GitHub Metrics
 
 <br/>
-
-Systems, not scripts. Production ML with clean interfaces.
-
-I own the full stack: **Data → Model → API → UI → Deployment**.
-
-I write code that ships, and documentation that scales.
-
-<br/>
-
-</td></tr>
-</table>
-</div>
-
-<br/>
-
-<div align="center">
-<img width="800" src="https://capsule-render.vercel.app/api?type=rect&color=1E293B&height=1" />
-</div>
-
-<br/>
-
-<div align="center">
-<img src="https://readme-typing-svg.demolab.com?font=Inter&weight=600&size=20&color=F8FAFC&center=true&vCenter=true&width=200&height=40&lines=Metrics" />
-</div>
-
-<br/>
-
-<div align="center">
-
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=akshatjain306&background=00000000&ring=38BDF8&fire=38BDF8&currStreakLabel=38BDF8&sideLabels=94A3B8&sideNums=F8FAFC&currStreakNum=F8FAFC&dates=94A3B8&hide_border=true" height="170" />
-
-<br/><br/><br/>
 
 <p align="center">
-  <sub>Building systems that work, then making them work better.</sub>
+  <img src="https://github-readme-stats.vercel.app/api?username=akshatjain306&show_icons=true&bg_color=0D1117&title_color=58A6FF&text_color=C9D1D9&icon_color=58A6FF&hide_border=true&count_private=true" height="150" />
+  &nbsp;&nbsp;
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=akshatjain306&background=0D1117&ring=58A6FF&fire=58A6FF&currStreakLabel=58A6FF&sideLabels=C9D1D9&sideNums=E6EDF3&currStreakNum=E6EDF3&dates=8B949E&hide_border=true" height="150" />
 </p>
+
+<br/><br/>
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=akshatjain306&style=flat-square&color=21262D&label=PROFILE+VIEWS" />
+</p>
+
+<br/>
+
+<p align="center">
+  <sub>I build things that work, then I make them work better.</sub>
+</p>
+
+<br/>
 
 </div>
