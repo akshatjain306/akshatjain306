@@ -1,106 +1,124 @@
-<!-- ================= HEADER ================= -->
-<h1 align="center">Hi 👋, I'm Akshat Jain</h1>
-<h3 align="center">🚀 AI Engineer | Full Stack Developer | Building Intelligent Systems</h3>
+<!-- FUTURISTIC DARK THEME GITHUB PROFILE README -->
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?color=00F7FF&center=true&vCenter=true&width=600&lines=AI+%2B+Full+Stack+Developer;Building+Scalable+AI+Products;React+%7C+Node+%7C+Python+%7C+ML;Future+SDE+%2F+AI+Engineer" />
+  <img src="banner.png" alt="banner" width="100%" />
+</p>
+
+<h1 align="center">
+  Hi, I'm Akshat Jain 👋
+</h1>
+
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&size=28&duration=3000&color=7F5AF0&center=true&vCenter=true&width=700&lines=AI+Engineer+%7C+Full+Stack+Developer;Building+Intelligent+Systems;Turning+Ideas+Into+Scalable+Reality" />
+</p>
+
+<p align="center">
+  <b>Designing intelligent systems. Engineering impactful products.</b>
 </p>
 
 ---
 
-<!-- ================= HERO BANNER ================= -->
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:203a43,100:2c5364&height=200&section=header&text=Welcome%20to%20My%20World&fontSize=35&fontColor=ffffff&animation=fadeIn" />
+## 🚀 About Me
+
+- 🎓 Final Year B.Tech CSE (AI Specialization)  
+- 🤖 Passionate about **AI, ML, Deep Learning & NLP**  
+- 🌐 Building scalable **Full Stack applications**  
+- ⚡ Focused on solving real-world problems with tech  
+
+---
+
+## 🛠 Tech Stack
+
+### 💻 Languages
+<p>
+  <img src="https://skillicons.dev/icons?i=cpp,python,javascript" />
+</p>
+
+### 🌐 Frontend
+<p>
+  <img src="https://skillicons.dev/icons?i=react,html,css" />
+</p>
+
+### ⚙️ Backend & Tools
+<p>
+  <img src="https://skillicons.dev/icons?i=nodejs,mysql,firebase,git,github" />
+</p>
+
+### 🧠 AI / ML
+<p>
+  <img src="https://skillicons.dev/icons?i=tensorflow,pytorch" />
 </p>
 
 ---
 
-<!-- ================= ABOUT ================= -->
-## 🧠 About Me
+## 🌟 Featured Projects
 
-- 🎓 Final Year B.Tech CSE (AI Specialization)
-- 💡 Passionate about building **AI-powered real-world products**
-- ⚡ Strong in **Full Stack + Machine Learning Integration**
-- 🚀 Focused on **scalable, production-ready systems**
-- 🎯 Target: Top-tier Software / AI Engineer roles
+### 🔹 Fake News Detection
+- ML system with 92% accuracy on 50K+ articles  
+- Tech: Python, ML Models, NLP  
+👉 https://github.com/akshatjain306
 
 ---
 
-<!-- ================= TECH STACK ================= -->
-## ⚡ Tech Stack
+### 🔹 Cricket Match Predictor
+- Predictive model with 85% accuracy  
+- Tech: XGBoost, Regression, Streamlit  
+👉 https://github.com/akshatjain306
+
+---
+
+### 🔹 Lost & Found Android App
+- Real-time item tracking system  
+- Tech: Java, Firebase, Android  
+👉 https://github.com/akshatjain306
+
+---
+
+### 🔹 Gesture-Controlled Virtual Mouse
+- Control system using computer vision  
+- Tech: OpenCV, Python  
+👉 https://github.com/akshatjain306
+
+---
+
+## 📊 GitHub Stats
 
 <p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=akshatjain306&show_icons=true&theme=tokyonight&hide_border=true" width="48%" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=akshatjain306&theme=tokyonight&hide_border=true" width="48%" />
+</p>
 
-<img src="https://skillicons.dev/icons?i=cpp,python,js,react,nodejs,express,mysql,firebase" /><br>
-<img src="https://skillicons.dev/icons?i=tensorflow,pytorch,git,github,linux,vscode" />
-
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=akshatjain306&layout=compact&theme=tokyonight&hide_border=true" width="50%" />
 </p>
 
 ---
 
-<!-- ================= STATS ================= -->
-## 📊 GitHub Analytics
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=akshatjain306&show_icons=true&theme=tokyonight&hide_border=true" height="180"/>
-  <img src="https://streak-stats.demolab.com?user=akshatjain306&theme=tokyonight&hide_border=true" height="180"/>
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=akshatjain306&layout=compact&theme=tokyonight&hide_border=true"/>
-</p>
-
----
-
-<!-- ================= PROJECTS ================= -->
-## 🚀 Featured Projects
-
-### 🔹 AI Resume Analyzer
-> 📊 NLP-based system to analyze resumes & improve ATS score  
-> ⚙️ React + Node + Python  
-
----
-
-### 🔹 Real-Time Chat App with AI
-> 💬 Chat system with AI-powered responses  
-> ⚙️ MERN + OpenAI API  
-
----
-
-### 🔹 Fake News Detection System
-> 🧠 ML model with 92% accuracy  
-> ⚙️ Python + ML + Web Interface  
-
----
-
-<!-- ================= ACHIEVEMENTS ================= -->
 ## 🏆 Achievements
 
-- 📄 Research Paper accepted at **ICICC 2025**
-- 🚀 Built multiple AI + Full Stack projects
-- 💡 Strong problem-solving in DSA
+- 📄 Research Paper accepted at **ICICC-2025**  
+- 🚀 Built multiple AI + Full Stack projects  
+- 🧠 Strong foundation in DSA & problem solving  
+- 🎯 Active in hackathons & tech competitions  
 
 ---
 
-<!-- ================= CONNECT ================= -->
 ## 🌐 Connect With Me
 
 <p align="center">
-<a href="https://linkedin.com/in/akshatjain8859/">
-  <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
-</a>
-<a href="mailto:your-email@gmail.com">
-  <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
-</a>
+  <a href="https://linkedin.com">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+  </a>
+  <a href="mailto:your-email@gmail.com">
+    <img src="https://img.shields.io/badge/Email-7F5AF0?style=for-the-badge&logo=gmail&logoColor=white"/>
+  </a>
+  <a href="#">
+    <img src="https://img.shields.io/badge/Portfolio-111827?style=for-the-badge&logo=vercel&logoColor=white"/>
+  </a>
 </p>
 
 ---
 
-<!-- ================= FOOTER ================= -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:203a43,100:2c5364&height=120&section=footer"/>
-</p>
-
-<p align="center">
-⭐ If you like my work, consider giving a star!
+  <i>"Code. Create. Evolve."</i>
 </p>
