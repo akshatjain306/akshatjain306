@@ -1,155 +1,200 @@
 <div align="center">
 
-<br><br><br>
+<br/>
 
-<img src="https://capsule-render.vercel.app/api?type=transparent&height=120&text=Akshat%20Jain&fontSize=64&fontColor=ffffff&fontAlignY=45" />
+<img src="https://readme-typing-svg.demolab.com?font=Inter&weight=800&size=48&duration=4000&pause=1000&color=F8FAFC&center=true&vCenter=true&width=500&height=70&lines=Akshat+Jain" alt="Akshat Jain" />
 
 <h3 align="center">AI Engineer · Full Stack Developer</h3>
 
-<br>
-
 <a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com?font=Inter&weight=300&size=15&duration=4000&pause=1500&color=8b949e&center=true&vCenter=true&repeat=true&width=450&height=30&lines=engineering+intelligence+into+production+systems;architecting+the+intersection+of+ml+and+web" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=400&size=13&duration=3000&pause=2000&color=38BDF8&center=true&vCenter=true&width=400&height=30&lines=architecting+intelligent+systems;bridging+models+and+production;systems+>+scripts" alt="Typing SVG" />
 </a>
 
-<br><br>
+<br/>
 
-<a href="https://www.linkedin.com/in/akshatjain8859/"><code>&nbsp;LINKEDIN&nbsp;</code></a>
-&nbsp;&nbsp;&nbsp;&nbsp;
-<a href="mailto:your-email@gmail.com"><code>&nbsp;EMAIL&nbsp;</code></a>
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0F172A?style=for-the-badge&logo=linkedin&logoColor=38BDF8)](https://www.linkedin.com/in/akshatjain8859/)
+[![Email](https://img.shields.io/badge/Email-0F172A?style=for-the-badge&logo=gmail&logoColor=38BDF8)](mailto:your-email@gmail.com)
 
-<br><br><br>
+<br/><br/>
 
-<img width="500" height="1" src="https://capsule-render.vercel.app/api?type=rect&color=21262d&height=1" />
-
-<br><br><br>
-
-<p align="center">
-Final-year B.Tech CSE (AI). I build systems, not scripts.<br>
-From data pipelines and model training to robust APIs and React interfaces.<br>
-I focus on software that ships.
-</p>
-
-<br><br><br>
-
-<img width="500" height="1" src="https://capsule-render.vercel.app/api?type=rect&color=21262d&height=1" />
-
-<br><br><br>
-
-<h3>Featured Work</h3>
-
-<br>
-
-<table width="800" align="center">
-<tr>
-<td width="33%" align="center" valign="top">
-<br>
-<a href="https://github.com/akshatjain306/Medverse_AI"><strong>Medverse AI</strong></a>
-<br><br>
-<p align="center">
-<sup>AI healthcare diagnostics platform.<br>Symptom analysis, X-ray classification,<br>and real-time appointment scheduling.</sup>
-</p>
-<br>
-<code>React</code> &nbsp; <code>FastAPI</code> &nbsp; <code>TensorFlow</code>
-<br><br>
-</td>
-
-<td width="33%" align="center" valign="top">
-<br>
-<a href="https://github.com/akshatjain306/Fake_News_Detection_Project"><strong>Fake News Detector</strong></a>
-<br><br>
-<p align="center">
-<sup>Multi-model NLP ensemble pipeline.<br>Logistic Regression, SVM,<br>Naive Bayes, Decision Tree.</sup>
-</p>
-<br>
-<strong>92%</strong> <sup>accuracy</sup>
-<br><br>
-</td>
-
-<td width="33%" align="center" valign="top">
-<br>
-<a href="https://github.com/akshatjain306/CricketPredictor"><strong>Cricket Predictor</strong></a>
-<br><br>
-<p align="center">
-<sup>Match outcome prediction engine.<br>XGBoost and regression ensemble.<br>Deployed for 500+ active users.</sup>
-</p>
-<br>
-<strong>85%</strong> <sup>accuracy</sup>
-<br><br>
-</td>
-</tr>
-</table>
-
-<br><br><br>
-
-<img width="500" height="1" src="https://capsule-render.vercel.app/api?type=rect&color=21262d&height=1" />
-
-<br><br><br>
-
-<h3>Core Stack</h3>
-
-<br>
-
-<p align="center">
-<code>Python</code> · <code>JavaScript</code> · <code>C++</code> · <code>TypeScript</code><br><br>
-<code>TensorFlow</code> · <code>PyTorch</code> · <code>scikit-learn</code> · <code>spaCy</code> · <code>LangChain</code><br><br>
-<code>React</code> · <code>FastAPI</code> · <code>Node.js</code> · <code>Firebase</code><br><br>
-<code>Docker</code> · <code>Git</code> · <code>GitHub Actions</code>
-</p>
-
-<br><br><br>
-
-<img width="500" height="1" src="https://capsule-render.vercel.app/api?type=rect&color=21262d&height=1" />
-
-<br><br><br>
-
-<h3>Currently Building</h3>
-
-<br>
+<img width="800" src="https://capsule-render.vercel.app/api?type=rect&color=1E293B&height=1" />
 
 </div>
 
-<table align="center" width="600">
-<tr>
-<td align="right" width="40">▹</td>
-<td><strong>Medverse AI</strong> — Expanding diagnostics, writing research paper, implementing CI/CD.</td>
-</tr>
-<tr>
-<td align="right" width="40">▹</td>
-<td><strong>RAG Document QA</strong> — Semantic search over large collections with LangChain.</td>
-</tr>
-</table>
+<br/>
 
 <div align="center">
 
-<br><br><br>
+Final-year **B.Tech CSE (AI)**. I design and build end-to-end ML systems — <br/>the model, the API, the interface, and the infrastructure. <br/>
+I care about clean architecture, measurable impact, and software that actually ships.
 
-<img width="500" height="1" src="https://capsule-render.vercel.app/api?type=rect&color=21262d&height=1" />
+</div>
 
-<br><br><br>
+<br/>
 
-<h3>What I Build</h3>
+<div align="center">
+<img width="800" src="https://capsule-render.vercel.app/api?type=rect&color=1E293B&height=1" />
+</div>
 
-<br>
+<br/>
+
+<div align="center">
+<img src="https://readme-typing-svg.demolab.com?font=Inter&weight=600&size=20&color=F8FAFC&center=true&vCenter=true&width=200&height=40&lines=Featured+Work" />
+</div>
+
+<br/>
+
+<div align="center">
+<table>
+  <tr>
+    <td width="33%" align="center">
+      <br/>
+      <a href="https://github.com/akshatjain306/Medverse_AI">
+        <img src="https://readme-typing-svg.demolab.com?font=Inter&weight=600&size=16&color=38BDF8&center=true&vCenter=true&width=200&height=30&lines=Medverse+AI" />
+      </a>
+      <br/>
+      <p><sub>AI healthcare diagnostics platform</sub></p>
+      <p><sub>Symptom analysis · X-ray classification<br/>Lab parsing · Real-time scheduling</sub></p>
+      <br/>
+      <code>React</code> <code>FastAPI</code> <code>TensorFlow</code>
+      <br/><br/>
+    </td>
+    <td width="33%" align="center">
+      <br/>
+      <a href="https://github.com/akshatjain306/Fake_News_Detection_Project">
+        <img src="https://readme-typing-svg.demolab.com?font=Inter&weight=600&size=16&color=38BDF8&center=true&vCenter=true&width=200&height=30&lines=Fake+News+Detector" />
+      </a>
+      <br/>
+      <p><sub>Multi-model NLP ensemble</sub></p>
+      <p><sub>LR · SVM · Naive Bayes · Decision Tree<br/><b>92% accuracy</b> · 15% above baseline</sub></p>
+      <br/>
+      <code>Python</code> <code>scikit-learn</code> <code>NLP</code>
+      <br/><br/>
+    </td>
+    <td width="33%" align="center">
+      <br/>
+      <a href="https://github.com/akshatjain306/CricketPredictor">
+        <img src="https://readme-typing-svg.demolab.com?font=Inter&weight=600&size=16&color=38BDF8&center=true&vCenter=true&width=200&height=30&lines=Cricket+Predictor" />
+      </a>
+      <br/>
+      <p><sub>Match outcome prediction engine</sub></p>
+      <p><sub>XGBoost + regression ensemble<br/><b>85% accuracy</b> · 500+ active users</sub></p>
+      <br/>
+      <code>XGBoost</code> <code>Streamlit</code> <code>Pandas</code>
+      <br/><br/>
+    </td>
+  </tr>
+</table>
+</div>
+
+<br/>
+
+<div align="center">
+<img width="800" src="https://capsule-render.vercel.app/api?type=rect&color=1E293B&height=1" />
+</div>
+
+<br/>
+
+<div align="center">
+<img src="https://readme-typing-svg.demolab.com?font=Inter&weight=600&size=20&color=F8FAFC&center=true&vCenter=true&width=200&height=40&lines=Core+Stack" />
+</div>
+
+<br/>
+
+<div align="center">
+
+`Python` • `JavaScript` • `C++` • `TypeScript`
+
+`TensorFlow` • `PyTorch` • `scikit-learn` • `spaCy` • `LangChain`
+
+`React` • `FastAPI` • `Node.js` • `Firebase`
+
+`Docker` • `Git` • `GitHub Actions`
+
+</div>
+
+<br/>
+
+<div align="center">
+<img width="800" src="https://capsule-render.vercel.app/api?type=rect&color=1E293B&height=1" />
+</div>
+
+<br/>
+
+<div align="center">
+<img src="https://readme-typing-svg.demolab.com?font=Inter&weight=600&size=20&color=F8FAFC&center=true&vCenter=true&width=300&height=40&lines=Currently+Building" />
+</div>
+
+<div align="center">
+<table>
+<tr><td align="left" width="650">
+
+<br/>
+
+▸ &nbsp;**Medverse AI** — Expanding diagnostics, adding CI/CD pipelines, publishing research paper.
+
+▸ &nbsp;**RAG Document QA** — Semantic search over large document collections using LangChain and FAISS.
+
+▸ &nbsp;**Open-Source NLP Tools** — Building specialized utilities at the intersection of language models and web systems.
+
+<br/>
+
+</td></tr>
+</table>
+</div>
+
+<br/>
+
+<div align="center">
+<img width="800" src="https://capsule-render.vercel.app/api?type=rect&color=1E293B&height=1" />
+</div>
+
+<br/>
+
+<div align="center">
+<img src="https://readme-typing-svg.demolab.com?font=Inter&weight=600&size=20&color=F8FAFC&center=true&vCenter=true&width=200&height=40&lines=What+I+Bring" />
+</div>
+
+<div align="center">
+<table>
+<tr><td align="center" width="650">
+
+<br/>
+
+Systems, not scripts. Production ML with clean interfaces.
+
+I own the full stack: **Data → Model → API → UI → Deployment**.
+
+I write code that ships, and documentation that scales.
+
+<br/>
+
+</td></tr>
+</table>
+</div>
+
+<br/>
+
+<div align="center">
+<img width="800" src="https://capsule-render.vercel.app/api?type=rect&color=1E293B&height=1" />
+</div>
+
+<br/>
+
+<div align="center">
+<img src="https://readme-typing-svg.demolab.com?font=Inter&weight=600&size=20&color=F8FAFC&center=true&vCenter=true&width=200&height=40&lines=Metrics" />
+</div>
+
+<br/>
+
+<div align="center">
+
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=akshatjain306&background=00000000&ring=38BDF8&fire=38BDF8&currStreakLabel=38BDF8&sideLabels=94A3B8&sideNums=F8FAFC&currStreakNum=F8FAFC&dates=94A3B8&hide_border=true" height="170" />
+
+<br/><br/><br/>
 
 <p align="center">
-I own the full lifecycle: training data → model → API → UI → deploy.<br>
-I write code that other engineers can read six months later.<br>
-I architect for scale, document for clarity, and refactor for longevity.
+  <sub>Building systems that work, then making them work better.</sub>
 </p>
-
-<br><br><br>
-
-<img width="500" height="1" src="https://capsule-render.vercel.app/api?type=rect&color=21262d&height=1" />
-
-<br><br><br>
-
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=akshatjain306&background=00000000&ring=58a6ff&fire=58a6ff&currStreakLabel=58a6ff&sideLabels=6e7681&sideNums=c9d1d9&currStreakNum=c9d1d9&dates=6e7681&hide_border=true" height="160" />
-
-<br><br><br><br>
-
-<sup>I build things that work, then I make them work better.</sup>
-
-<br><br>
 
 </div>
