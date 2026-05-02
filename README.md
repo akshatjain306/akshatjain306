@@ -49,17 +49,42 @@
 
 ## 🌟 Featured Projects
 
-<p align="center">
-  <a href="https://github.com/akshatjain306/Medverse_AI">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=akshatjain306&repo=Medverse_AI&theme=tokyonight&hide_border=true" />
-  </a>
-  <a href="https://github.com/akshatjain306/Fake_News_Detection_Project">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=akshatjain306&repo=Fake_News_Detection_Project&theme=tokyonight&hide_border=true" />
-  </a>
-  <a href="https://github.com/akshatjain306/CricketPredictor">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=akshatjain306&repo=CricketPredictor&theme=tokyonight&hide_border=true" />
-  </a>
-</p>
+<table align="center" width="100%">
+  <tr>
+    <td align="center" width="33%">
+      <br/>
+      <b><a href="https://github.com/akshatjain306/Medverse_AI">Medverse AI</a></b>
+      <br/><br/>
+      <p>AI healthcare diagnostics platform.<br/>Symptom analysis, X-ray classification,<br/>lab report parsing.</p>
+      <img src="https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB" />
+      <img src="https://img.shields.io/badge/FastAPI-20232A?style=flat-square&logo=fastapi&logoColor=009688" />
+      <img src="https://img.shields.io/badge/TensorFlow-20232A?style=flat-square&logo=tensorflow&logoColor=FF6F00" />
+      <br/><br/>
+    </td>
+    <td align="center" width="33%">
+      <br/>
+      <b><a href="https://github.com/akshatjain306/Fake_News_Detection_Project">Fake News Detector</a></b>
+      <br/><br/>
+      <p>Multi-model NLP ensemble pipeline.<br/>Logistic Regression, SVM, Naive Bayes,<br/>and Decision Tree classification.</p>
+      <b>92% Accuracy</b>
+      <br/><br/>
+      <img src="https://img.shields.io/badge/Python-20232A?style=flat-square&logo=python&logoColor=3776AB" />
+      <img src="https://img.shields.io/badge/scikit--learn-20232A?style=flat-square&logo=scikitlearn&logoColor=F7931E" />
+      <br/><br/>
+    </td>
+    <td align="center" width="33%">
+      <br/>
+      <b><a href="https://github.com/akshatjain306/CricketPredictor">Cricket Predictor</a></b>
+      <br/><br/>
+      <p>Match outcome prediction engine.<br/>XGBoost + regression ensemble deployed<br/>to Streamlit for live inference.</p>
+      <b>85% Accuracy</b>
+      <br/><br/>
+      <img src="https://img.shields.io/badge/XGBoost-20232A?style=flat-square&logo=xgboost&logoColor=FF6600" />
+      <img src="https://img.shields.io/badge/Pandas-20232A?style=flat-square&logo=pandas&logoColor=150458" />
+      <br/><br/>
+    </td>
+  </tr>
+</table>
 
 ---
 
