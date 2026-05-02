@@ -53,33 +53,17 @@
 
 ## 🌟 Featured Projects
 
-### 🔹 Fake News Detection
-- ML system with 92% accuracy on 50K+ articles  
-- Tech: Python, ML Models, NLP  
-👉 https://github.com/akshatjain306
-
----
-
-### 🔹 Cricket Match Predictor
-- Predictive model with 85% accuracy  
-- Tech: XGBoost, Regression, Streamlit  
-👉 https://github.com/akshatjain306
-
----
-
-### 🔹 Lost & Found Android App
-- Real-time item tracking system  
-- Tech: Java, Firebase, Android  
-👉 https://github.com/akshatjain306
-
----
-
-### 🔹 Gesture-Controlled Virtual Mouse
-- Control system using computer vision  
-- Tech: OpenCV, Python  
-👉 https://github.com/akshatjain306
-
----
+<p align="center">
+  <a href="https://github.com/akshatjain306">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=akshatjain306&repo=medverse&theme=tokyonight&hide_border=true" />
+  </a>
+  <a href="https://github.com/akshatjain306">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=akshatjain306&repo=fake-news-detection&theme=tokyonight&hide_border=true" />
+  </a>
+  <a href="https://github.com/akshatjain306">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=akshatjain306&repo=gesture-virtual-mouse&theme=tokyonight&hide_border=true" />
+  </a>
+</p>
 
 ## 📊 GitHub Stats
 
