@@ -1,154 +1,106 @@
-<div align="center">
+<!-- ================= HEADER ================= -->
+<h1 align="center">Hi 👋, I'm Akshat Jain</h1>
+<h3 align="center">🚀 AI Engineer | Full Stack Developer | Building Intelligent Systems</h3>
 
-<!-- 🔥 HERO BANNER -->
-<img src="YOUR_BANNER_LINK_HERE" />
-
-<br/><br/>
-
-<!-- NAME -->
-<h1>Akshat Jain</h1>
-
-<p>
-AI Engineer • Full Stack Developer
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?color=00F7FF&center=true&vCenter=true&width=600&lines=AI+%2B+Full+Stack+Developer;Building+Scalable+AI+Products;React+%7C+Node+%7C+Python+%7C+ML;Future+SDE+%2F+AI+Engineer" />
 </p>
 
-<p>
-Building intelligent systems that bridge AI and real-world products
+---
+
+<!-- ================= HERO BANNER ================= -->
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:203a43,100:2c5364&height=200&section=header&text=Welcome%20to%20My%20World&fontSize=35&fontColor=ffffff&animation=fadeIn" />
 </p>
 
-<br/>
+---
 
-<!-- SOCIAL -->
-<p>
-  <a href="https://www.linkedin.com/in/akshatjain8859/">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white"/>
-  </a>
-  &nbsp;
-  <a href="mailto:your-email@gmail.com">
-    <img src="https://img.shields.io/badge/Email-EA4335?style=flat-square&logo=gmail&logoColor=white"/>
-  </a>
+<!-- ================= ABOUT ================= -->
+## 🧠 About Me
+
+- 🎓 Final Year B.Tech CSE (AI Specialization)
+- 💡 Passionate about building **AI-powered real-world products**
+- ⚡ Strong in **Full Stack + Machine Learning Integration**
+- 🚀 Focused on **scalable, production-ready systems**
+- 🎯 Target: Top-tier Software / AI Engineer roles
+
+---
+
+<!-- ================= TECH STACK ================= -->
+## ⚡ Tech Stack
+
+<p align="center">
+
+<img src="https://skillicons.dev/icons?i=cpp,python,js,react,nodejs,express,mysql,firebase" /><br>
+<img src="https://skillicons.dev/icons?i=tensorflow,pytorch,git,github,linux,vscode" />
+
 </p>
 
-<br/>
+---
 
-━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+<!-- ================= STATS ================= -->
+## 📊 GitHub Analytics
 
-<br/>
-
-<!-- ABOUT -->
-<p>
-Final-year <b>B.Tech CSE (AI)</b> student focused on building end-to-end intelligent systems —
-from data pipelines and model training to scalable APIs and user-facing products.
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=akshatjain306&show_icons=true&theme=tokyonight&hide_border=true" height="180"/>
+  <img src="https://streak-stats.demolab.com?user=akshatjain306&theme=tokyonight&hide_border=true" height="180"/>
 </p>
 
-<p>
-<i>I design systems that are not just built, but actually used.</i>
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=akshatjain306&layout=compact&theme=tokyonight&hide_border=true"/>
 </p>
 
-<br/>
+---
 
-━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+<!-- ================= PROJECTS ================= -->
+## 🚀 Featured Projects
 
-<br/>
+### 🔹 AI Resume Analyzer
+> 📊 NLP-based system to analyze resumes & improve ATS score  
+> ⚙️ React + Node + Python  
 
-<!-- WORK -->
-<h2>Selected Work</h2>
+---
 
-<br/>
+### 🔹 Real-Time Chat App with AI
+> 💬 Chat system with AI-powered responses  
+> ⚙️ MERN + OpenAI API  
 
-<p>
-<b>Medverse AI</b><br/>
-AI healthcare diagnostics platform<br/>
-<sub>React • FastAPI • TensorFlow</sub>
+---
+
+### 🔹 Fake News Detection System
+> 🧠 ML model with 92% accuracy  
+> ⚙️ Python + ML + Web Interface  
+
+---
+
+<!-- ================= ACHIEVEMENTS ================= -->
+## 🏆 Achievements
+
+- 📄 Research Paper accepted at **ICICC 2025**
+- 🚀 Built multiple AI + Full Stack projects
+- 💡 Strong problem-solving in DSA
+
+---
+
+<!-- ================= CONNECT ================= -->
+## 🌐 Connect With Me
+
+<p align="center">
+<a href="https://linkedin.com/in/YOUR-LINK">
+  <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
+<a href="mailto:YOUR_EMAIL">
+  <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
 </p>
 
-<br/>
+---
 
-<p>
-<b>Fake News Detector</b><br/>
-NLP classification pipeline — 92% accuracy<br/>
-<sub>Python • Scikit-learn</sub>
+<!-- ================= FOOTER ================= -->
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:203a43,100:2c5364&height=120&section=footer"/>
 </p>
 
-<br/>
-
-<p>
-<b>Cricket Predictor</b><br/>
-ML-based match prediction system — 85% accuracy<br/>
-<sub>XGBoost • Streamlit</sub>
+<p align="center">
+⭐ If you like my work, consider giving a star!
 </p>
-
-<br/>
-
-━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
-
-<br/>
-
-<!-- STACK -->
-<h2>Core Stack</h2>
-
-<br/>
-
-<p>
-Python • C++ • JavaScript • TypeScript
-</p>
-
-<p>
-React • Node.js • FastAPI
-</p>
-
-<p>
-Machine Learning • Deep Learning • NLP
-</p>
-
-<br/>
-
-━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
-
-<br/>
-
-<!-- CURRENT -->
-<h2>Currently Building</h2>
-
-<br/>
-
-<p>
-▹ Scaling <b>Medverse AI</b> for real-world deployment  
-</p>
-
-<p>
-▹ RAG-based Document Q&A System  
-</p>
-
-<p>
-▹ AI Resume Analyzer (ATS scoring system)  
-</p>
-
-<br/>
-
-━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
-
-<br/>
-
-<!-- STATS -->
-<h2>Metrics</h2>
-
-<br/>
-
-<p>
-  <img src="https://github-readme-stats.vercel.app/api?username=akshatjain306&show_icons=true&bg_color=0D1117&title_color=58A6FF&text_color=C9D1D9&icon_color=58A6FF&hide_border=true" height="150"/>
-</p>
-
-<p>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=akshatjain306&background=0D1117&ring=58A6FF&fire=58A6FF&currStreakLabel=58A6FF&sideLabels=C9D1D9&sideNums=E6EDF3&currStreakNum=E6EDF3&dates=8B949E&hide_border=true" height="150"/>
-</p>
-
-<br/><br/>
-
-<p>
-<sub>I build systems. Then I make them better.</sub>
-</p>
-
-<br/>
-
-</div>
