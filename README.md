@@ -1,4 +1,3 @@
-<!-- FUTURISTIC DARK THEME GITHUB PROFILE README -->
 
 <div align="center">
 
@@ -143,21 +142,21 @@ Focused on applied machine learning, NLP systems, and full stack development.
 
 <div align="center">
 
-📄 Research published at <b>ICICC 2025</b>  
+Research published at <b>ICICC 2025</b>  
 
 <br/>
 
-🚀 Built and deployed multiple AI-powered applications  
+Built and deployed multiple AI-powered applications  
 spanning NLP, computer vision, and full stack systems  
 
 <br/>
 
-🧠 Strong foundation in data structures, algorithms,  
+Strong foundation in data structures, algorithms,  
 and problem-solving across real-world scenarios  
 
 <br/>
 
-🎯 Participated in hackathons and competitive  
+Participated in hackathons and competitive  
 development environments
 
 </div>
