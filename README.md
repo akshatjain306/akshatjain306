@@ -2,7 +2,7 @@
 
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F2027,50:203A43,100:2C5364&height=220&section=header&text=Akshat%20Jain&fontSize=58&fontColor=00F7FF&animation=fadeIn&fontAlignY=40" width="100%" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F2027,50:302B63,100:00C9FF&height=240&section=header&text=Akshat%20Jain&fontSize=56&fontColor=FFFFFF&animation=fadeIn&fontAlignY=38&desc=AI%20Engineer%20•%20Full%20Stack%20Developer&descAlignY=60&descAlign=50&descSize=18&descColor=C9D1D9" width="100%" />
 
 <br/>
 
