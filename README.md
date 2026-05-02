@@ -1,26 +1,35 @@
 <!-- FUTURISTIC DARK THEME GITHUB PROFILE README -->
 
-<p align="center">
-  <img src="banner.png" alt="banner" width="100%" />
-</p>
+<div align="center">
 
-<h1 align="center">
-  Hi, I'm Akshat Jain 👋
-</h1>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0B0F19,50:1A233A,100:0B0F19&height=200&section=header&text=Akshat%20Jain&fontSize=50&fontColor=7F5AF0&animation=fadeIn" width="100%" />
 
-<p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&size=28&duration=3000&color=7F5AF0&center=true&vCenter=true&width=700&lines=AI+Engineer+%7C+Full+Stack+Developer;Building+Intelligent+Systems;Turning+Ideas+Into+Scalable+Reality" />
-</p>
+<br/>
+
+<img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&size=24&duration=3000&color=7F5AF0&center=true&vCenter=true&width=700&lines=AI+Engineer+%7C+Full+Stack+Developer;Building+Intelligent+Systems;Turning+Ideas+Into+Scalable+Reality" />
 
 <p align="center">
   <b>Designing intelligent systems. Engineering impactful products.</b>
 </p>
 
+<br/>
+
+<p align="center">
+  <a href="https://linkedin.com/in/akshatjain8859/">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+  </a>
+  <a href="mailto:your-email@gmail.com">
+    <img src="https://img.shields.io/badge/Email-7F5AF0?style=for-the-badge&logo=gmail&logoColor=white"/>
+  </a>
+</p>
+
+</div>
+
 ---
 
 ## 🚀 About Me
 
-- 🎓 Final Year B.Tech CSE (AI Specialization)  
+- 🎓 Final Year **B.Tech CSE (AI Specialization)**  
 - 🤖 Passionate about **AI, ML, Deep Learning & NLP**  
 - 🌐 Building scalable **Full Stack applications**  
 - ⚡ Focused on solving real-world problems with tech  
@@ -29,41 +38,30 @@
 
 ## 🛠 Tech Stack
 
-### 💻 Languages
-<p>
-  <img src="https://skillicons.dev/icons?i=cpp,python,javascript" />
-</p>
-
-### 🌐 Frontend
-<p>
-  <img src="https://skillicons.dev/icons?i=react,html,css" />
-</p>
-
-### ⚙️ Backend & Tools
-<p>
-  <img src="https://skillicons.dev/icons?i=nodejs,mysql,firebase,git,github" />
-</p>
-
-### 🧠 AI / ML
-<p>
-  <img src="https://skillicons.dev/icons?i=tensorflow,pytorch" />
-</p>
+<div align="center">
+  <img src="https://skillicons.dev/icons?i=cpp,python,javascript,typescript&theme=dark" /><br/>
+  <img src="https://skillicons.dev/icons?i=react,html,css,nodejs,fastapi&theme=dark" /><br/>
+  <img src="https://skillicons.dev/icons?i=mysql,firebase,git,github,docker&theme=dark" /><br/>
+  <img src="https://skillicons.dev/icons?i=tensorflow,pytorch,scikitlearn&theme=dark" />
+</div>
 
 ---
 
 ## 🌟 Featured Projects
 
 <p align="center">
-  <a href="https://github.com/akshatjain306">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=akshatjain306&repo=medverse&theme=tokyonight&hide_border=true" />
+  <a href="https://github.com/akshatjain306/Medverse_AI">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=akshatjain306&repo=Medverse_AI&theme=tokyonight&hide_border=true" />
   </a>
-  <a href="https://github.com/akshatjain306">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=akshatjain306&repo=fake-news-detection&theme=tokyonight&hide_border=true" />
+  <a href="https://github.com/akshatjain306/Fake_News_Detection_Project">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=akshatjain306&repo=Fake_News_Detection_Project&theme=tokyonight&hide_border=true" />
   </a>
-  <a href="https://github.com/akshatjain306">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=akshatjain306&repo=gesture-virtual-mouse&theme=tokyonight&hide_border=true" />
+  <a href="https://github.com/akshatjain306/CricketPredictor">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=akshatjain306&repo=CricketPredictor&theme=tokyonight&hide_border=true" />
   </a>
 </p>
+
+---
 
 ## 📊 GitHub Stats
 
@@ -87,21 +85,9 @@
 
 ---
 
-## 🌐 Connect With Me
-
 <p align="center">
-  <a href="https://linkedin.com">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
-  </a>
-  <a href="mailto:your-email@gmail.com">
-    <img src="https://img.shields.io/badge/Email-7F5AF0?style=for-the-badge&logo=gmail&logoColor=white"/>
-  </a>
-  <a href="#">
-    <img src="https://img.shields.io/badge/Portfolio-111827?style=for-the-badge&logo=vercel&logoColor=white"/>
-  </a>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0B0F19,50:1A233A,100:0B0F19&height=120&section=footer"/>
 </p>
-
----
 
 <p align="center">
   <i>"Code. Create. Evolve."</i>
