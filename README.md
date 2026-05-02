@@ -3,6 +3,7 @@
 <div align="center">
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F2027,50:203A43,100:2C5364&height=220&section=header&text=Akshat%20Jain&fontSize=58&fontColor=00F7FF&animation=fadeIn&fontAlignY=40" width="100%" />
+
 <br/>
 
 <img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&size=24&duration=3000&color=7F5AF0&center=true&vCenter=true&width=700&lines=AI+Engineer+%7C+Full+Stack+Developer;Building+Intelligent+Systems;Turning+Ideas+Into+Scalable+Reality" />
