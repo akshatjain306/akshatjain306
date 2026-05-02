@@ -6,20 +6,23 @@
 
 <br/>
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&size=24&duration=3000&color=7F5AF0&center=true&vCenter=true&width=700&lines=AI+Engineer+%7C+Full+Stack+Developer;Building+Intelligent+Systems;Turning+Ideas+Into+Scalable+Reality" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Inter&weight=500&size=20&duration=4000&pause=1500&color=C9D1D9&center=true&vCenter=true&width=600&lines=AI+Engineer;Full+Stack+Developer;Building+Real+World+Systems" />
 
 <p align="center">
-  <b>Designing intelligent systems. Engineering impactful products.</b>
+  <b style="font-size:18px;">
+    Building scalable AI systems from model to production.
+  </b>
 </p>
 
 <br/>
 
 <p align="center">
   <a href="https://linkedin.com/in/akshatjain8859/">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+    <img src="https://img.shields.io/badge/LinkedIn-0D1117?style=for-the-badge&logo=linkedin&logoColor=38BDF8&labelColor=0D1117"/>
   </a>
-  <a href="mailto:your-email@gmail.com">
-    <img src="https://img.shields.io/badge/Email-7F5AF0?style=for-the-badge&logo=gmail&logoColor=white"/>
+  &nbsp;
+  <a href="mailto:akshat8859@gmail.com">
+    <img src="https://img.shields.io/badge/Email-0D1117?style=for-the-badge&logo=gmail&logoColor=38BDF8&labelColor=0D1117"/>
   </a>
 </p>
 
@@ -27,27 +30,72 @@
 
 ---
 
-## 🚀 About Me
+## About
 
-- 🎓 Final Year **B.Tech CSE (AI Specialization)**  
-- 🤖 Passionate about **AI, ML, Deep Learning & NLP**  
-- 🌐 Building scalable **Full Stack applications**  
-- ⚡ Focused on solving real-world problems with tech  
+Final-year B.Tech CSE (AI) student building end-to-end intelligent systems —  
+from data pipelines and model training to scalable APIs and real-world products.
 
----
+Focused on applied machine learning, NLP systems, and full stack development.
 
-## 🛠 Tech Stack
+----
+
+## Core Stack
+
+<br/>
 
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=cpp,python,javascript,typescript&theme=dark" /><br/>
-  <img src="https://skillicons.dev/icons?i=react,html,css,nodejs,fastapi&theme=dark" /><br/>
-  <img src="https://skillicons.dev/icons?i=mysql,firebase,git,github,docker&theme=dark" /><br/>
-  <img src="https://skillicons.dev/icons?i=tensorflow,pytorch,scikitlearn&theme=dark" />
+
+<table>
+<tr>
+<td align="center" width="200">
+
+<b>Languages</b><br/><br/>
+<img src="https://skillicons.dev/icons?i=python,cpp,javascript,typescript&theme=dark" />
+
+</td>
+
+<td align="center" width="200">
+
+<b>Frontend</b><br/><br/>
+<img src="https://skillicons.dev/icons?i=react,html,css&theme=dark" />
+
+</td>
+</tr>
+
+<tr>
+<td align="center" width="200">
+
+<b>Backend</b><br/><br/>
+<img src="https://skillicons.dev/icons?i=nodejs,fastapi&theme=dark" />
+
+</td>
+
+<td align="center" width="200">
+
+<b>AI / ML</b><br/><br/>
+<img src="https://skillicons.dev/icons?i=tensorflow,pytorch,scikitlearn&theme=dark" />
+
+</td>
+</tr>
+
+<tr>
+<td colspan="2" align="center">
+
+<b>Tools & Infra</b><br/><br/>
+<img src="https://skillicons.dev/icons?i=git,github,docker,firebase,mysql&theme=dark" />
+
+</td>
+</tr>
+
+</table>
+
 </div>
+
+<br/>
 
 ---
 
-## 🌟 Featured Projects
+## Featured Projects
 
 <table align="center" width="100%">
   <tr>
@@ -88,32 +136,38 @@
 
 ---
 
-## 📊 GitHub Stats
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=akshatjain306&show_icons=true&theme=tokyonight&hide_border=true" width="48%" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=akshatjain306&theme=tokyonight&hide_border=true" width="48%" />
-</p>
+## Achievements
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=akshatjain306&layout=compact&theme=tokyonight&hide_border=true" width="50%" />
-</p>
+<br/>
+
+<div align="center">
+
+📄 Research published at <b>ICICC 2025</b>  
+
+<br/>
+
+🚀 Built and deployed multiple AI-powered applications  
+spanning NLP, computer vision, and full stack systems  
+
+<br/>
+
+🧠 Strong foundation in data structures, algorithms,  
+and problem-solving across real-world scenarios  
+
+<br/>
+
+🎯 Participated in hackathons and competitive  
+development environments
+
+</div>
+
+<br/>
 
 ---
-
-## 🏆 Achievements
-
-- 📄 Research Paper accepted at **ICICC-2025**  
-- 🚀 Built multiple AI + Full Stack projects  
-- 🧠 Strong foundation in DSA & problem solving  
-- 🎯 Active in hackathons & tech competitions  
-
----
-
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0B0F19,50:1A233A,100:0B0F19&height=120&section=footer"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F2027,50:302B63,100:00C9FF&height=120&section=footer" width="100%" />
 </p>
-
 <p align="center">
   <i>"Code. Create. Evolve."</i>
 </p>
