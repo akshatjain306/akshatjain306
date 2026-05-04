@@ -27,11 +27,15 @@
 
 ## ⚡ About
 
-```
-> Final-year B.Tech CSE (AI) — building end-to-end intelligent systems
-> From data pipelines and model training to scalable APIs and production deployments
-> Focused on applied ML, NLP systems, and full stack development
-```
+<div align="center">
+
+`Final-year B.Tech CSE (AI) — building end-to-end intelligent systems`
+
+`From data pipelines and model training → scalable APIs → production deployments`
+
+`Focused on applied ML · NLP systems · full stack development`
+
+</div>
 
 <br/>
 
@@ -140,16 +144,35 @@
 
 <br/>
 
+## 🔮 Currently Building
+
+<div align="center">
+
+| Project | Focus | Status |
+|---------|-------|--------|
+| **Medverse AI** | AI-powered healthcare diagnostics — symptom checker, X-ray analysis, real-time scheduling | 🟢 Active |
+| **NLP Research** | Published at ICICC 2025 — exploring medical NLP applications | ✅ Published |
+| **Portfolio** | Full-stack showcase with live demos | 🔧 In Progress |
+
+</div>
+
+<br/>
+
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
+
+<br/>
+
 ## 🏆 Achievements
 
 <div align="center">
 
-```
-📄 Research published at ICICC 2025
+📄 Research published at **ICICC 2025**
+<br/><br/>
 🧠 Built and deployed multiple AI-powered applications spanning NLP, CV, and full stack
+<br/><br/>
 🏗️ Strong foundation in DSA and problem-solving across real-world scenarios
+<br/><br/>
 🚀 Participated in hackathons and competitive development environments
-```
 
 </div>
 
@@ -163,13 +186,11 @@
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=akshatjain306&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0A0A0A&title_color=00E5FF&icon_color=00E5FF&text_color=C9D1D9" width="48%" />
-&nbsp;
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=akshatjain306&theme=tokyonight&hide_border=true&background=0A0A0A&ring=00E5FF&fire=00E5FF&currStreakLabel=00E5FF&sideLabels=C9D1D9&dates=58A6FF" width="48%" />
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=akshatjain306&theme=tokyonight&hide_border=true&background=0A0A0A&ring=00E5FF&fire=00E5FF&currStreakLabel=00E5FF&sideLabels=C9D1D9&dates=58A6FF" width="55%" />
 
 <br/><br/>
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=akshatjain306&layout=compact&theme=tokyonight&hide_border=true&bg_color=0A0A0A&title_color=00E5FF&text_color=C9D1D9" width="40%" />
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=akshatjain306&theme=tokyonight" width="80%" />
 
 </div>
 
@@ -180,6 +201,10 @@
 <br/>
 
 <div align="center">
+
+<img src="https://komarev.com/ghpvc/?username=akshatjain306&style=for-the-badge&color=0A0A0A&labelColor=0A0A0A&label=PROFILE+VIEWS" />
+
+<br/><br/>
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0A0A0A,50:001a33,100:003366&height=120&section=footer" width="100%" />
 
