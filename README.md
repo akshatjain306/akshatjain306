@@ -16,6 +16,10 @@
 <a href="mailto:akshat8859@gmail.com">
   <img src="https://img.shields.io/badge/Email-0A0A0A?style=for-the-badge&logo=gmail&logoColor=00E5FF" />
 </a>
+&nbsp;
+<a href="https://akshatjain306.github.io">
+  <img src="https://img.shields.io/badge/Portfolio-0A0A0A?style=for-the-badge&logo=firefoxbrowser&logoColor=00E5FF" />
+</a>
 
 </div>
 
