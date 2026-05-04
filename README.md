@@ -186,7 +186,17 @@
 
 <div align="center">
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=akshatjain306&theme=tokyonight&hide_border=true&background=0A0A0A&ring=00E5FF&fire=00E5FF&currStreakLabel=00E5FF&sideLabels=C9D1D9&dates=58A6FF" width="55%" />
+<img src="https://github-readme-stats-eight-theta.vercel.app/api?username=akshatjain306&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0A0A0A&title_color=00E5FF&icon_color=00E5FF&text_color=C9D1D9&include_all_commits=true&count_private=true" width="48%" />
+&nbsp;
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=akshatjain306&theme=tokyonight&hide_border=true&background=0A0A0A&ring=00E5FF&fire=00E5FF&currStreakLabel=00E5FF&sideLabels=C9D1D9&dates=58A6FF" width="48%" />
+
+<br/><br/>
+
+<img src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=akshatjain306&layout=compact&theme=tokyonight&hide_border=true&bg_color=0A0A0A&title_color=00E5FF&text_color=C9D1D9&langs_count=8" width="40%" />
+
+<br/><br/>
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=akshatjain306&bg_color=0A0A0A&color=00E5FF&line=00E5FF&point=C9D1D9&area=true&area_color=00E5FF&hide_border=true" width="90%" />
 
 <br/><br/>
 
