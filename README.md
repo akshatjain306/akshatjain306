@@ -1,50 +1,45 @@
 
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F2027,50:302B63,100:00C9FF&height=240&section=header&text=Akshat%20Jain&fontSize=56&fontColor=FFFFFF&animation=fadeIn&fontAlignY=38&desc=AI%20Engineer%20•%20Full%20Stack%20Developer&descAlignY=60&descAlign=50&descSize=18&descColor=C9D1D9" width="100%" />
+<img src="assets/akshatgif.gif" alt="Akshat Jain — AI Engineer" width="100%" />
 
 <br/>
 
-<img src="assets/akshatgif.gif" alt="Akshat Jain" width="100%" />
+<img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=500&size=18&duration=3500&pause=1200&color=00E5FF&center=true&vCenter=true&width=500&lines=AI+Engineer;Full+Stack+Developer;Building+Real+World+Systems" />
 
-<br/>
+<br/><br/>
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Inter&weight=500&size=20&duration=4000&pause=1500&color=C9D1D9&center=true&vCenter=true&width=600&lines=AI+Engineer;Full+Stack+Developer;Building+Real+World+Systems" />
-
-<p align="center">
-  <b style="font-size:18px;">
-    Building scalable AI systems from model to production.
-  </b>
-</p>
-
-<br/>
-
-<p align="center">
-  <a href="https://linkedin.com/in/akshatjain8859/">
-    <img src="https://img.shields.io/badge/LinkedIn-0D1117?style=for-the-badge&logo=linkedin&logoColor=38BDF8&labelColor=0D1117"/>
-  </a>
-  &nbsp;
-  <a href="mailto:akshat8859@gmail.com">
-    <img src="https://img.shields.io/badge/Email-0D1117?style=for-the-badge&logo=gmail&logoColor=38BDF8&labelColor=0D1117"/>
-  </a>
-</p>
+<a href="https://linkedin.com/in/akshatjain8859/">
+  <img src="https://img.shields.io/badge/LinkedIn-0A0A0A?style=for-the-badge&logo=linkedin&logoColor=00E5FF" />
+</a>
+&nbsp;
+<a href="mailto:akshat8859@gmail.com">
+  <img src="https://img.shields.io/badge/Email-0A0A0A?style=for-the-badge&logo=gmail&logoColor=00E5FF" />
+</a>
 
 </div>
 
----
+<br/>
 
-## About
-
-Final-year B.Tech CSE (AI) student building end-to-end intelligent systems —  
-from data pipelines and model training to scalable APIs and real-world products.
-
-Focused on applied machine learning, NLP systems, and full stack development.
-
-----
-
-## Core Stack
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
 
 <br/>
+
+## ⚡ About
+
+```
+> Final-year B.Tech CSE (AI) — building end-to-end intelligent systems
+> From data pipelines and model training to scalable APIs and production deployments
+> Focused on applied ML, NLP systems, and full stack development
+```
+
+<br/>
+
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
+
+<br/>
+
+## 🛠 Core Stack
 
 <div align="center">
 
@@ -96,9 +91,11 @@ Focused on applied machine learning, NLP systems, and full stack development.
 
 <br/>
 
----
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
 
-## Featured Projects
+<br/>
+
+## 🚀 Featured Projects
 
 <table align="center" width="100%">
   <tr>
@@ -107,9 +104,9 @@ Focused on applied machine learning, NLP systems, and full stack development.
       <b><a href="https://github.com/akshatjain306/Medverse_AI">Medverse AI</a></b>
       <br/><br/>
       <p>AI healthcare diagnostics platform.<br/>Symptom analysis, X-ray classification,<br/>lab report parsing.</p>
-      <img src="https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB" />
-      <img src="https://img.shields.io/badge/FastAPI-20232A?style=flat-square&logo=fastapi&logoColor=009688" />
-      <img src="https://img.shields.io/badge/TensorFlow-20232A?style=flat-square&logo=tensorflow&logoColor=FF6F00" />
+      <img src="https://img.shields.io/badge/React-0A0A0A?style=flat-square&logo=react&logoColor=00E5FF" />
+      <img src="https://img.shields.io/badge/FastAPI-0A0A0A?style=flat-square&logo=fastapi&logoColor=00E5FF" />
+      <img src="https://img.shields.io/badge/TensorFlow-0A0A0A?style=flat-square&logo=tensorflow&logoColor=00E5FF" />
       <br/><br/>
     </td>
     <td align="center" width="33%">
@@ -119,8 +116,8 @@ Focused on applied machine learning, NLP systems, and full stack development.
       <p>Multi-model NLP ensemble pipeline.<br/>Logistic Regression, SVM, Naive Bayes,<br/>and Decision Tree classification.</p>
       <b>92% Accuracy</b>
       <br/><br/>
-      <img src="https://img.shields.io/badge/Python-20232A?style=flat-square&logo=python&logoColor=3776AB" />
-      <img src="https://img.shields.io/badge/scikit--learn-20232A?style=flat-square&logo=scikitlearn&logoColor=F7931E" />
+      <img src="https://img.shields.io/badge/Python-0A0A0A?style=flat-square&logo=python&logoColor=00E5FF" />
+      <img src="https://img.shields.io/badge/scikit--learn-0A0A0A?style=flat-square&logo=scikitlearn&logoColor=00E5FF" />
       <br/><br/>
     </td>
     <td align="center" width="33%">
@@ -130,47 +127,64 @@ Focused on applied machine learning, NLP systems, and full stack development.
       <p>Match outcome prediction engine.<br/>XGBoost + regression ensemble deployed<br/>to Streamlit for live inference.</p>
       <b>85% Accuracy</b>
       <br/><br/>
-      <img src="https://img.shields.io/badge/XGBoost-20232A?style=flat-square&logo=xgboost&logoColor=FF6600" />
-      <img src="https://img.shields.io/badge/Pandas-20232A?style=flat-square&logo=pandas&logoColor=150458" />
+      <img src="https://img.shields.io/badge/XGBoost-0A0A0A?style=flat-square&logo=xgboost&logoColor=00E5FF" />
+      <img src="https://img.shields.io/badge/Pandas-0A0A0A?style=flat-square&logo=pandas&logoColor=00E5FF" />
       <br/><br/>
     </td>
   </tr>
 </table>
 
----
+<br/>
 
-
-## Achievements
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
 
 <br/>
+
+## 🏆 Achievements
 
 <div align="center">
 
-Research published at <b>ICICC 2025</b>  
-
-<br/>
-
-Built and deployed multiple AI-powered applications  
-spanning NLP, computer vision, and full stack systems  
-
-<br/>
-
-Strong foundation in data structures, algorithms,  
-and problem-solving across real-world scenarios  
-
-<br/>
-
-Participated in hackathons and competitive  
-development environments
+```
+📄 Research published at ICICC 2025
+🧠 Built and deployed multiple AI-powered applications spanning NLP, CV, and full stack
+🏗️ Strong foundation in DSA and problem-solving across real-world scenarios
+🚀 Participated in hackathons and competitive development environments
+```
 
 </div>
 
 <br/>
 
----
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F2027,50:302B63,100:00C9FF&height=120&section=footer" width="100%" />
-</p>
-<p align="center">
-  <i>"Code. Create. Evolve."</i>
-</p>
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
+
+<br/>
+
+## 📊 GitHub Stats
+
+<div align="center">
+
+<img src="https://github-readme-stats.vercel.app/api?username=akshatjain306&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0A0A0A&title_color=00E5FF&icon_color=00E5FF&text_color=C9D1D9" width="48%" />
+&nbsp;
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=akshatjain306&theme=tokyonight&hide_border=true&background=0A0A0A&ring=00E5FF&fire=00E5FF&currStreakLabel=00E5FF&sideLabels=C9D1D9&dates=58A6FF" width="48%" />
+
+<br/><br/>
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=akshatjain306&layout=compact&theme=tokyonight&hide_border=true&bg_color=0A0A0A&title_color=00E5FF&text_color=C9D1D9" width="40%" />
+
+</div>
+
+<br/>
+
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
+
+<br/>
+
+<div align="center">
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0A0A0A,50:001a33,100:003366&height=120&section=footer" width="100%" />
+
+<br/>
+
+<i>"Code. Build. Deploy. Repeat."</i>
+
+</div>
