@@ -5,6 +5,10 @@
 
 <br/>
 
+<img src="assets/akshatgif.gif" alt="Akshat Jain" width="100%" />
+
+<br/>
+
 <img src="https://readme-typing-svg.herokuapp.com?font=Inter&weight=500&size=20&duration=4000&pause=1500&color=C9D1D9&center=true&vCenter=true&width=600&lines=AI+Engineer;Full+Stack+Developer;Building+Real+World+Systems" />
 
 <p align="center">
