@@ -156,7 +156,25 @@
 |---------|-------|--------|
 | **Medverse AI** | AI-powered healthcare diagnostics — symptom checker, X-ray analysis, real-time scheduling | 🟢 Active |
 | **NLP Research** | Published at ICICC 2025 — exploring medical NLP applications | ✅ Published |
-| **Portfolio** | Full-stack showcase with live demos | 🔧 In Progress |
+| **Portfolio** | Full-stack cyberpunk terminal showcase with interactive CLI | ✅ Live |
+
+</div>
+
+<br/>
+
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
+
+<br/>
+
+## 📚 What I'm Learning
+
+<div align="center">
+
+`Advanced System Design for scalable AI microservices`
+<br/>
+`Optimizing RAG pipelines and LLM deployments`
+<br/>
+`Deepening expertise in cloud infrastructure (AWS/GCP)`
 
 </div>
 
@@ -189,6 +207,10 @@
 ## 📊 GitHub Stats
 
 <div align="center">
+
+<img src="https://github-profile-trophy.vercel.app/?username=akshatjain306&theme=tokyonight&no-frame=true&no-bg=true&margin-w=15" width="100%" />
+
+<br/><br/>
 
 <img src="https://github-readme-stats-eight-theta.vercel.app/api?username=akshatjain306&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0A0A0A&title_color=00E5FF&icon_color=00E5FF&text_color=C9D1D9&include_all_commits=true&count_private=true" width="48%" />
 &nbsp;
