@@ -155,7 +155,7 @@
 | Project | Focus | Status |
 |---------|-------|--------|
 | **Medverse AI** | AI-powered healthcare diagnostics — symptom checker, X-ray analysis, real-time scheduling | 🟢 Active |
-| **Deepfake Research** | Published review on face deepfake detection at ICICC 2025 (Springer) | ✅ Published |
+| **Deepfake Research** | [Published review on face deepfake detection at ICICC 2025 (Springer)](https://link.springer.com/chapter/10.1007/978-981-96-7526-5_35) | ✅ Published |
 | **Portfolio** | Full-stack cyberpunk terminal showcase with interactive CLI | ✅ Live |
 
 </div>
