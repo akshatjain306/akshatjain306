@@ -5,7 +5,7 @@
 
 <br/>
 
-<img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=500&size=18&duration=3500&pause=1200&color=00E5FF&center=true&vCenter=true&width=500&lines=AI+Engineer;Full+Stack+Developer;Building+Real+World+Systems" />
+<img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=500&size=18&duration=3500&pause=1200&color=00E5FF&center=true&vCenter=true&width=550&lines=AI+Engineer;Full+Stack+Developer;Deepfake+Researcher+%40+Springer;Building+Real+World+Systems" />
 
 <br/><br/>
 
@@ -33,11 +33,13 @@
 
 <div align="center">
 
-`Final-year B.Tech CSE (AI) — building end-to-end intelligent systems`
+`B.Tech CSE (AI) — Bennett University, Greater Noida`
 
 `From data pipelines and model training → scalable APIs → production deployments`
 
-`Focused on applied ML · NLP systems · full stack development`
+`Applied ML · Computer Vision · Deepfake Research · Full Stack`
+
+`📄 Published at ICICC 2025 (Springer) — Deepfake Detection`
 
 </div>
 
@@ -170,11 +172,11 @@
 
 <div align="center">
 
-`Advanced System Design for scalable AI microservices`
+`LLM fine-tuning and RAG pipeline optimization`
 <br/>
-`Optimizing RAG pipelines and LLM deployments`
+`Advanced system design for scalable AI microservices`
 <br/>
-`Deepening expertise in cloud infrastructure (AWS/GCP)`
+`Cloud infrastructure for model deployment (AWS/GCP)`
 
 </div>
 
@@ -188,9 +190,9 @@
 
 <div align="center">
 
-📄 Research published at **ICICC 2025**
+📄 **[Springer Publication — ICICC 2025](https://link.springer.com/chapter/10.1007/978-981-96-7526-5_35)** · Face Deepfake Detection Review
 <br/><br/>
-🧠 Built and deployed multiple AI-powered applications spanning NLP, CV, and full stack
+🧠 Built and deployed multiple AI-powered applications spanning CV, NLP, and full stack
 <br/><br/>
 🏗️ Strong foundation in DSA and problem-solving across real-world scenarios
 <br/><br/>
