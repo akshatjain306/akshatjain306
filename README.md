@@ -21,6 +21,14 @@
   <img src="https://img.shields.io/badge/Portfolio-0A0A0A?style=for-the-badge&logo=firefoxbrowser&logoColor=00E5FF" />
 </a>
 
+<br/><br/>
+
+<img src="https://img.shields.io/badge/%F0%9F%9F%A2%20Open%20to%20Work-Roles%20in%20AI%20%2F%20Full%20Stack-27c93f?style=for-the-badge" />
+&nbsp;
+<a href="https://doi.org/10.1007/978-981-96-7526-5_35">
+  <img src="https://img.shields.io/badge/Springer-Published%20%40%20ICICC%202025-BD93F9?style=for-the-badge&logo=springer&logoColor=white" />
+</a>
+
 </div>
 
 <br/>
