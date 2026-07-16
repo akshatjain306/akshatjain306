@@ -41,13 +41,13 @@
 
 <div align="center">
 
-`B.Tech CSE (AI) — Bennett University, Greater Noida`
+`B.Tech CSE (AI) — Bennett University, Greater Noida (2025 Graduate)`
 
 `From data pipelines and model training → scalable APIs → production deployments`
 
 `Applied ML · Computer Vision · Deepfake Research · Full Stack`
 
-`📄 Published at ICICC 2025 (Springer) — Deepfake Detection`
+`📄 Springer Published — ICICC 2025 (Face Deepfake Detection)`
 
 </div>
 
@@ -164,9 +164,9 @@
 
 | Project | Focus | Status |
 |---------|-------|--------|
-| **Medverse AI** | AI-powered healthcare diagnostics — symptom checker, X-ray analysis, real-time scheduling | 🟢 Active |
+| **Medverse AI** | AI healthcare diagnostics — symptom analysis, X-ray CNN, lab parser, WebSocket scheduler | ✅ Completed |
 | **Deepfake Research** | [Published review on face deepfake detection at ICICC 2025 (Springer)](https://link.springer.com/chapter/10.1007/978-981-96-7526-5_35) | ✅ Published |
-| **Portfolio** | Full-stack cyberpunk terminal showcase with interactive CLI | ✅ Live |
+| **Cyberpunk Portfolio** | Terminal-themed interactive portfolio with CLI, particles, and boot animation | ✅ Live |
 
 </div>
 
@@ -180,11 +180,11 @@
 
 <div align="center">
 
-`LLM fine-tuning and RAG pipeline optimization`
+`Agentic AI systems — tool-use, RAG pipelines, LLM orchestration`
 <br/>
-`Advanced system design for scalable AI microservices`
+`Cloud-native deployment (Docker, GCP/AWS, CI/CD)`
 <br/>
-`Cloud infrastructure for model deployment (AWS/GCP)`
+`Competitive programming — strengthening DSA and system design`
 
 </div>
 
@@ -237,6 +237,14 @@
 <br/><br/>
 
 <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=akshatjain306&theme=tokyonight" width="80%" />
+
+<br/><br/>
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/akshatjain306/akshatjain306/output/github-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/akshatjain306/akshatjain306/output/github-snake.svg" />
+  <img alt="github contribution snake" src="https://raw.githubusercontent.com/akshatjain306/akshatjain306/output/github-snake-dark.svg" width="90%" />
+</picture>
 
 </div>
 
