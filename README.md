@@ -41,7 +41,7 @@
 
 <div align="center">
 
-`B.Tech CSE (AI) — Bennett University, Greater Noida (2025 Graduate)`
+`B.Tech CSE (AI) — Bennett University, Greater Noida (Final Year)`
 
 `From data pipelines and model training → scalable APIs → production deployments`
 
